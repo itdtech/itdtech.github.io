@@ -1,4 +1,5 @@
 # iTD - inTo Deep of tech
+consulting, training, workshop and more
 
 ## AI experts
 
