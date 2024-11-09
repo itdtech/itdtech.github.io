@@ -1,9 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "iTD"
 ---
-
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
