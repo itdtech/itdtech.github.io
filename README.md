@@ -1,23 +1,29 @@
-# Skinny Bones Jekyll Starter
+# OneFlow Jekyll Theme
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## What is it
+OneFlow is a Jekyll Theme designed to create stunning, clear and practical modern One-Pager Websites. 
+It offers lots of features and customization options, so you can easily create a Site that matches your own or your client's wishes for design and structure.  
+Check out the [Theme Website](https://oneflow-jekyll-theme.github.io/) showcasing and explaining the various opportunities the theme offers, and also check out the [first example website](https://oneflow-jekyll-theme-example-one.github.io/) and the [second example website](https://oneflow-jekyll-theme-example-two.github.io/) to see a few of the different design options the theme offers.  
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
+## Full documentation
+Extensive documentation for OneFlow is available [here](https://perstarke-webdev.de/oneflow-jekyll-theme).
 
----
+## Getting started & development 
 
-## Notable Features
+### Fork and clone this repository
+The **vision of this theme** is **simplicity and accessibility**, to easily create stunning websites from scratch.  
+Therefore, it's not available as a classic gem-based Jekyll theme, but as a ready-to-use GitHub repository that you just need to fork and clone.  
+So, get ahead and make a fork of this repository, rename it if you like to suit the name of the site you want to create, locally clone it, and directly start editing!
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+### How to start a development docker container
+To test your website and see all of your changes in real-time without deploying it online, you can easily build your site locally.  
+- Make sure you have [Bundler](https://bundler.io/) and [Docker](https://www.docker.com/) installed.  
+- Open up a terminal, navigate to your local repository, and run ```docker compose up```.
 
-## More Jekyll Themes
+Your site will then be visible at ```http://0.0.0.0:4000/``` in any browser.
 
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
+## News
 
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+- OneFlow is now featured on [Jamstackthemes](https://jamstackthemes.dev/theme/oneflow/)
+- OneFlow is now featured on [jeyll-themes.com](https://jekyll-themes.com/perstarke-webdev/oneflow-jekyll-theme/)
+- OneFlow has been used to create the [arc42 Trainings dates page](https://trainings.arc42.org/)
