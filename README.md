@@ -1,9 +1,9 @@
-# iTD 爱启迪
+# iTD - inTo Deep of tech
 
-## AI专家
+## AI experts
 
-## 深入技术
+## Decode AI technology
 
-## 产业场景
+## Industry use cases
 
-## 高管赋能
+## Leadership empowerment
