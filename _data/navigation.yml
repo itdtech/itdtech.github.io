@@ -6,7 +6,7 @@ main:
   - title: "Experts"
     url: /#section-2
     blank: false
-  - title: "Use Cases"
+  - title: "Cases"
     url: /#section-3
     blank: false
   - title: "Offers"
